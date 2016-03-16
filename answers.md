@@ -15,7 +15,5 @@ The application.html.erb view renders a message if an error is thrown.
 # Give us feedback on the project and decal below!
 
 # Extra credit: Link your Heroku deployed app
-<!--
-  # get '/trainers/:id/new', to: 'pokemon#new', as: 'new_pokemon'
-  # post '/trainers/:id', to: 'pokemon#new', as: 'new_trainer_pokemon'
-  # post '/trainers/:id/new', to: 'pokemon#create', as: 'pokemons' -->
+
+https://github.com/deathisnotacurse/proj1.git
